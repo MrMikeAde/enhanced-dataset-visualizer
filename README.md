@@ -26,8 +26,8 @@ streamlit run app.py
 ## Live Demo
 
 Try the hosted version here:  
-https://your-username.streamlit.app  
-*(Replace with your actual deployment link)*
+https://enhanced-dataset-visualizer-pdua5naaluldswthesqvgo.streamlit.app/  
+
 
 ## Support the Project
 
